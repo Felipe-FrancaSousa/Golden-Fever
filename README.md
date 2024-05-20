@@ -4,7 +4,10 @@
 
  O jogo possui Menu inicial, tutorial e uma fase completa. Infelizmente o grupo não seguiu com a ideia do jogo e com isso o projeto ainda segue não finalizado completamente, porem está jogável como uma "demo".
 
-*** Ferramentas utilizadas
+## Ferramentas utilizadas
  Engine: Unity, versão 2018.x
+ 
  IDE: Visual Studio 2017 e 2019
+ 
  Arte: Aseprite e Adobe Photoshop
+ 
